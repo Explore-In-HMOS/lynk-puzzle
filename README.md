@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # Lynk Puzzle Game
 Lynk Puzzle Game is a casual wearable game where players connect all nodes by drawing paths. A level is completed once all nodes are filled. Various node types add depth and variety to the gameplay.
